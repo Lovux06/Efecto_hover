@@ -1,6 +1,6 @@
 # _EFECTO HOVER_
 
-## menu horizontal con efecto hover
+## _menu horizontal con efecto hover_
 
 #### ***Captura de pantalla.***
 
